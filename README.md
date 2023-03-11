@@ -23,7 +23,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-![Screenshot](./images/Screenshot 2023-03-11 at 04.15.16.png)
+![Screenshot](./images/Screenshot%202023-03-11%20at%2004.15.16.png)
 
 ### Links
 
