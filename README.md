@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-Noc9ouKqX3)
-- [Live Site URL](https://dragonfireshield.github.io/testimonials-grid/))
+- [Live Site URL](https://dragonfireshield.github.io/testimonials-grid/)
 
 ## My process
 
