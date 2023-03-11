@@ -23,8 +23,8 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
-![](./screenshot.jpg)
+https://github.com/DragonFireShield/testimonials-grid/blob/main/images/
+![Screenshot](/images/Screenshot 2023-03-11 at 04.15.16.png)
 
 ### Links
 
